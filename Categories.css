@@ -1,0 +1,65 @@
+
+.meal-header {
+    margin: 20px auto;
+    text-align: center;
+    font-size: 45px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 3px solid black;
+    width: 200px;
+    
+}
+
+.search-input {
+    font-size: 30px;
+    width: 300px;
+    text-align: center;
+}
+.search-meal{
+    text-align: center;
+}
+.get-meals {
+    text-align: center;
+}
+.get-meals-name {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: red;
+}
+.get-meals-img {
+    border-radius: 10px;
+}
+.link-name{
+    text-decoration: none;
+}
+.categories-meal{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    background-color: burlywood;
+    margin:25px auto;
+}
+.categories-meal:hover {
+    background-color: coral;
+}
+.categories-name{
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black; 
+}
+.categories-meals {
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.link-name {
+    text-decoration: none;
+}
+.error-msg {
+    margin: 15px auto;
+    text-align: center;
+    font-size: 45px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}

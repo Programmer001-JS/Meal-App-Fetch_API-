@@ -1,0 +1,39 @@
+.details-header {
+    margin: 15px auto;
+    text-align: center;
+    font-size: 45px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 3px solid black;
+    width: 260px;
+}
+.home-page {
+    position: absolute;
+    top:30px;
+    left:30px;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.details-meal-header {
+    position: absolute;
+    top:160px;
+    left:30px;
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+    text-decoration: none;
+}
+.img-details {
+    position: absolute;
+    top:220px;
+    left:30px;
+}
+.details-of-meal {
+    position: absolute;
+    top:180px;
+    left:600px;
+    font-size: 25px;
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

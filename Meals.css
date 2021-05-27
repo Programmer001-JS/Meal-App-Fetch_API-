@@ -1,0 +1,52 @@
+
+.meals-header {
+    margin: 15px auto;
+    text-align: center;
+    font-size: 45px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 3px solid black;
+    width: 400px;
+}
+.category-header {
+    margin: 20px auto;
+    text-align: center;
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+    color:red;
+}
+.home-page {
+    position: absolute;
+    top:30px;
+    left:30px;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.get-meals-of-category {
+    width: 300px;
+    border-radius: 25px;
+    text-align: center;
+   
+   
+}
+.get-meals-of-category  img{
+    border-radius: 20px;
+}
+.meals-of-category {
+    margin: 0px auto;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.meals-name {
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black; 
+}
+
+.link-name {
+    text-decoration: none;
+}
